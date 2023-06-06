@@ -1,0 +1,7 @@
+5 comandos
+
+1-ls -a: lista todos los archivos tambien los archivos ocultos.
+2- pwd: muestra la carpeta en la que estoy.
+3- rm nombre_archivo: elimina un archivo.
+4- touch nombre_archivo: crea un nuevo archivo.
+5- cp nombre_archivo: copia un archivo o carpeta.
