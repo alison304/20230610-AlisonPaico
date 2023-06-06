@@ -1,0 +1,30 @@
+   46  git status
+   47  git commit -m "commit 02 de AlisonPaico"
+   48  git push origin feature01
+   49  git branch feature02
+   50  git checkout feature02
+   51  cd ..
+   52  cd Terminal/
+   53  git add .
+   54  git commit -m "commit 03 de AlisonPaico"
+   55  git push origin feature02
+   56  git checkout master
+   57  git switch master
+   58  git commit -m "commit 03 de AlisonPaico"
+   59  git push origin feature02
+   60  git checkout master
+   61  mv comandos.txt comandosUtilizados.txt
+   62  git mv comandos.txt comandosUtilizados.txt
+   63  git add .
+   64  git commit -m "commit 04 de AlisonPaico"
+   65  cd ..
+   66  git add .
+   67  git status
+   68  git commit -m "commit 04 de AlisonPaico"
+   69  git push origin master
+   70  history
+   71  cd Terminal/
+   72  ls
+   73  cd ..
+   74  ls
+   75  history 30 > comandosUtilizados.txt
